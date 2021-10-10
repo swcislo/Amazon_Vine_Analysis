@@ -5,22 +5,13 @@ SellBy stakeholders requested an additional analysis to provide information on t
 An analysis was performed the reviews for personal care appliances. The purpose of the analysis was to determine if there is any bias toward favorable reviews from Vine members in the personal care appliances dataset.
 
 ## Results
-- Total Reviews
-!image 
+- Total Reviews for personal care appliances: 85,981
+- Total Paid Reviews for personal care appliances: 32
+- Total Non-Paid Reviews for personal care appliances: 85,949
+- Total 5 Star Reviews for personal care appliances: 48,897
+- Total 5 Star Paid Reviews for personal care appliances: 24
+- Percentage of 5 Star Paid Reviews for personal care appliances: 0.05%
+- Total 5 Star Non-Paid Reviews for personal care appliances: 48,873 
+- Percentage of 5 Star Non-Paid Reviews for personal care appliances: 99.95%
 
-
-
-
-
-
-How many Vine reviews and non-Vine reviews were there?
-How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-
-
-
-
-
-Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
-
-
+Based on the analysis of the reviews for personal care appliances, the percentage of 5 Star Paid Reviews was immaterial. The percentage of non-paid 5 star reviews were 99.95%. It appears based on this dataset, paying for the review does not affect the rating.
